@@ -14,6 +14,7 @@
     background-size: cover;
     background-position: relative;
     background-repeat: no-repeat;
+    background-color: pink;
 }
 
 nav {
@@ -61,7 +62,7 @@ nav img{
 
 .text-box{
     width: 90%;
-    Color: #27130a;
+    Color: #0a0a27;
     position: absolute;
     top: 50%;
     left: 50%;
